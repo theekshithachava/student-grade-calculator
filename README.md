@@ -26,6 +26,12 @@ How to Run
 4. Enter the marks when prompted.
 5. The program will display the total, average, grade, and pass/fail result.
 
+ 
+Learning Outcome
+
+
+This project helped me understand Python basics such as variables, loops, user input, arithmetic operations, and if-else conditions.
+
 Author
 
 Teeekshitha
