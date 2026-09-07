@@ -1,0 +1,5 @@
+----- Student Grade Report -----
+Total Marks: 398.0
+Average Marks: 79.6
+Grade: C
+Result: PASS
